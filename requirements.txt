@@ -1,0 +1,17 @@
+
+pip install numpy      # For numerical computing
+pip install scipy      # For scientific computing
+pip install pandas     # For data manipulation and analysis
+pip install scikit-learn  # For machine learning algorithms and utilities
+pip install matplotlib  # For data visualization
+pip install seaborn    # For statistical data visualization
+pip install tensorflow # For deep learning models and frameworks
+pip install keras      # High-level neural networks API (uses TensorFlow or Theano as backend)
+pip install nltk       # For natural language processing tasks
+pip install opencv-python  # For computer vision tasks
+pip install xgboost    # For gradient boosting algorithms
+pip install lightgbm   # For gradient boosting algorithms
+pip install catboost   # For gradient boosting algorithms
+
+
+-e .
